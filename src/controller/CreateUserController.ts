@@ -16,3 +16,7 @@ class CreateUserController{
 }
 
 export {CreateUserController}
+
+/**
+ * server -> routes -> midlewer -> 
+ */
